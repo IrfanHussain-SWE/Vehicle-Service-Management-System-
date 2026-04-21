@@ -1,0 +1,45 @@
+221|Oil Change|2000.0|121
+222|Wiring|1500.0|null
+223|Gear Change|5000.0|null
+224|Bike wiring|500.0|null
+225|Tyre Change(bike)|1000.0|null
+226|Tyre Change(Car)|1000.0|null
+227|Engine Oil Change|3500.0|null
+228|Brake Pad Replacement |4000.0|null
+229|Wheel Alignment|2500.0|null
+230|Tire Rotation|1500.0|null
+231|Air Filter Replacement|1200.0|null
+232|Fule Injector Cleaning|3000.0|null
+233|Battery Replacement|5000.0|null
+234|AC Gas Refill|3500.0|null
+235|Coolant Flush|2000.0|null
+236|Timing belt Replacement|4500.0|null
+237|Spark plug Relacement|1000.0|null
+238|Suspention Check|2500.0|null
+239|Clutch Replacement|6000.0|null
+240|Headlight Bulb Replacement|500.0|null
+241|Power Steering Repair|4500.0|null
+242|Radiator Replacement|7000.0|null
+243|Oil Filter Replacement|1200.0|null
+244|Wheel Bearing |3500.0|null
+245|Shock Absorber|5000.0|null
+246|Differential Oil Change|3000.0|null
+247|Cabin Air Filter|1000.0|null
+248|Car Wash|1500.0|null
+249|Engine Mount Replacement|6000.0|null
+250|Tire Balancing|1000.0|null
+251|Chain Lubrication|300.0|null
+252|Brake Check(Bike)|500.0|null
+253|Tire Replacement(bike)|2000.0|null
+254|Spark Plug Replacement|500.0|null
+255|Air Filter Cleaning|200.0|null
+256|Battery Check(bike)|300.0|null
+257|Headlight Fix(bike)|400.0|null
+258|Tail Light Fix|300.0|null
+259|Clutch Adjustment|600.0|null
+260|Carburetor Cleaning(bike)|600.0|null
+261|Fuel Injector Cleaning|1000.0|null
+262|Suspension Check|800.0|null
+263|Chain Replacement|1200.0|null
+264|Wheel Allignment|500.0|null
+265|Engine Tuning|500.0|null
